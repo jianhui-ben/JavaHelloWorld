@@ -7,10 +7,14 @@ import java.util.Locale;
 import java.util.Scanner;
 
 public class Main {
+
+    int testInt;
+
     public Main() {
     }
 
     public static void main(String[] var0) {
+        System.out.println();
 //        //sout abbv to print out 'hello world' with \ escape
 //        System.out.println("Hello World" + "\"Ben\"");
 //
