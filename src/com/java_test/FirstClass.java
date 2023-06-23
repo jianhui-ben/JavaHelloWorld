@@ -1,17 +1,6 @@
 package com.java_test;
 
-import java.awt.*;
-import java.util.Arrays;
-import java.util.Date;
-import java.util.Locale;
-import java.util.Scanner;
-
-public class Main {
-
-    int testInt;
-
-    public Main() {
-    }
+public class FirstClass {
 
     public static void main(String[] var0) {
         System.out.println();
@@ -106,8 +95,13 @@ public class Main {
         //break, continue is the same as python
         //for each loop
         String[] people = {"Ben", "Love", "Aiko"};
-        for (String person:people) {
+        for (String person : people) {
             System.out.println(person);
         }
+
+
+
+
     }
+
 }
