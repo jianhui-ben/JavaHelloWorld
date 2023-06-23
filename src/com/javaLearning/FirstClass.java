@@ -1,4 +1,4 @@
-package com.java_test;
+package com.javaLearning;
 
 public class FirstClass {
 
